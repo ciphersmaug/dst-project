@@ -2,3 +2,9 @@
 env/*
 env/
 *.pdf
+data_files/*
+data_files
+download_files/*
+download_files
+processed_data/*
+processed_data
