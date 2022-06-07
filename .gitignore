@@ -5,6 +5,7 @@ env/
 data_files/*
 data_files
 download_files/*
-download_files
+#download_files
 processed_data/*
 processed_data
+!download_files/population_data.csv
