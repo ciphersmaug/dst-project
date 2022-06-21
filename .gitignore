@@ -2,10 +2,11 @@
 env/*
 env/
 *.pdf
-data_files/*
-data_files
+!data_files/*.csv
+#data_files
 download_files/*
 #download_files
 processed_data/*
 processed_data
 !download_files/population_data.csv
+!download_files/member_states.csv
